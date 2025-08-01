@@ -1,1 +1,1 @@
-console.log("haha");
+console.log("that was funny");
